@@ -1,0 +1,27 @@
+
+body {
+  background-image: url(../images/backgroundgame.jpg);
+  background-size: cover;
+  
+}
+
+h1 {
+  text-align: center;
+  color:black;
+  font-weight: bolder;
+  padding: 20px;
+  font-size: 45px;
+}
+
+.jumbotron {
+  margin: 10px auto;
+  border: 2px solid greenyellow;
+  height: 900px;
+  width: 80
+  
+}
+
+.btn {
+  position: relative;
+  bottom: -150px;
+}
